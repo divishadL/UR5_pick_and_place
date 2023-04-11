@@ -14,7 +14,7 @@ This example is compatible and tested with **ROS Noetic** and Ubuntu 20.04.
 
 `roslaunch ur5_moveit_config execution.launch`
 
-- Finallz, run the following node, which adds the concerned box in the planning scene and allows the collision between gripper and box and later attaches the box to gripper.
+- Finally, run the following node, which adds the concerned box in the planning scene and allows the collision between gripper and box and later attaches the box to gripper.
 
 > Here even after removing the collision object, it is still remaining attached with the gripper(Issue to be resolved)
 
