@@ -1,0 +1,2 @@
+realsense2_description:realsense_gazebo_plugin:robotiq/robotiq_description:robotiq/robotiq_gazebo:ur5/ur5_description:ur5/ur5_gazebo:ur5_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/divishad/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/divishad/test_ws/install -G Unix Makefiles

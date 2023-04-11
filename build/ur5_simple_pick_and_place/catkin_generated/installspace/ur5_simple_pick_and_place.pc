@@ -1,0 +1,8 @@
+prefix=/home/divishad/test_ws/install
+
+Name: ur5_simple_pick_and_place
+Description: Description of ur5_simple_pick_and_place
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers tf2_geometry_msgs actionlib_msgs control_msgs
