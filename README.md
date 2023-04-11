@@ -3,7 +3,7 @@ This repository demonstrates a simple pick and place task executed by a UR5 robo
 
 This example is compatible and tested with ROS Noetic and Ubuntu 20.04.
 
-##Steps to launch the example:
+## Steps to launch the example:
 
 - At first launch the UR5 arm in Gazebo. The referred package is [UR5_Gazebo](https://github.com/utecrobotics/ur5). The referred repository is built for older versions of ROS and will give some build errors for Noetic, so cloning the package [UR5](https://github.com/divishadL/UR5_pick_and_place/tree/main/src/ur5) in current repo will work fine for Noetic systems.
 
